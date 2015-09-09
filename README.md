@@ -8,6 +8,6 @@ Creer un fichier: **touch nomdufichier**
 * commit un fichier : **git commit -m "message"**
 * etat du projet: **git status**
 * git config : **permet des configuration**
-* git add : **permet d'envoyer mesmodifications dans mon compte github** 
+* git push : **permet d'envoyer mesmodifications dans mon compte github** 
 
 
